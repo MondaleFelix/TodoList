@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/TodoListApp.csproj",
-      "projectName": "TodoListApp",
-      "projectPath": "/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/TodoListApp.csproj",
+      "projectUniqueName": "/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/TodoAPI.csproj",
+      "projectName": "TodoAPI",
+      "projectPath": "/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/TodoAPI.csproj",
       "packagesPath": "/Users/mondalework/.nuget/packages/",
-      "outputPath": "/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/obj/",
+      "outputPath": "/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mondalework/.nuget/NuGet/NuGet.Config"

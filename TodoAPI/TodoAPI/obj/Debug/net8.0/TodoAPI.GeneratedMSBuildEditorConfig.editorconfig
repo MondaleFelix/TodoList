@@ -7,41 +7,41 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = TodoListApp
-build_property.RootNamespace = TodoListApp
-build_property.ProjectDir = /Users/mondalework/RiderProjects/TodoListApp/TodoListApp/
+build_property.RootNamespace = TodoAPI
+build_property.RootNamespace = TodoAPI
+build_property.ProjectDir = /Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/mondalework/RiderProjects/TodoListApp/TodoListApp
+build_property.MSBuildProjectDirectory = /Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/Views/Home/Index.cshtml]
+[/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/Views/Home/Privacy.cshtml]
+[/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/Views/Shared/Error.cshtml]
+[/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/Views/_ViewImports.cshtml]
+[/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/Views/_ViewStart.cshtml]
+[/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/mondalework/RiderProjects/TodoListApp/TodoListApp/Views/Shared/_Layout.cshtml]
+[/Users/mondalework/RiderProjects/TodoListApp/TodoAPI/TodoAPI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-rzth5xadtq
+build_metadata.AdditionalFiles.CssScope = b-0wls27tajs
